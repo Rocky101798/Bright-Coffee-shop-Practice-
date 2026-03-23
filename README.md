@@ -1,5 +1,3 @@
-# Bright-Coffee-Shop-Assignment-
-
 # Bright Coffee Shop Sales Analysis
 
 ## Project Overview
